@@ -4,7 +4,6 @@
 
 A university admissions FAQ chatbot that matches natural-language questions against a knowledge base using NLP preprocessing and similarity-based matching, served through a Streamlit chat interface.
 
-> **Note:** Uses sample/demo FAQ data created for this internship task. Not affiliated with or endorsed by any official institution.
 
 ---
 
